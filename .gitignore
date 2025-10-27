@@ -6,3 +6,5 @@ venv/
 
 !/kube-prometheus-stack/servicemonitor.yaml
 !/kube-prometheus-stack/values.yaml
+
+*.pyc
